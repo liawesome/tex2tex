@@ -1,1 +1,10 @@
-# tex2tex
+## Text Generation using T5
+
+Lessons learned in this project:
+- Import Data from Kaggle
+- Offline data
+- Import Pre-trained transformer based model
+- Different tokenization 
+- Finetuning
+- Test on test data and find perplexity
+- View in the streamlit
