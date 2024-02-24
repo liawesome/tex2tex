@@ -1,4 +1,4 @@
-## Text Generation using T5
+## Text Generation using T5 (hugging face)
 
 Lessons learned in this project:
 - Import Data from Kaggle
